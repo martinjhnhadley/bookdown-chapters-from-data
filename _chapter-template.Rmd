@@ -1,0 +1,14 @@
+---
+output:
+  bookdown::gitbook
+params:
+  chapter_subject: "Chapter title missing"
+  chapter_strapline: "Chapter strap line missing"
+  chapter_body: "Chapter body missing"
+---
+
+# `r params$chapter_subject` {-}
+
+> `r params$chapter_strapline`
+
+`r params$chapter_body`

@@ -1,0 +1,5 @@
+# Bayesian Statistics {-}
+
+> You know, for data
+
+Bayesian statistics is widely misunderstood...
